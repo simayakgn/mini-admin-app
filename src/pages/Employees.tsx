@@ -156,13 +156,15 @@ export default function EmployeesPage() {
       <h2 className="text-xl mb-4">{t("translation.employees")}</h2>
 
       {/* Filters */}
-      <div className="flex gap-2 mb-3">
-        <span className="p-input-icon-left">
-          <i className="pi pi-search" />
+      <div className="">
+        <span className="p-input-icon-left w-48">
+          <i className="pi pi-search" style={{ marginLeft: "16px" }} />
           <InputText
             value={nameFilter}
             onChange={(e) => setNameFilter(e.target.value)}
             placeholder={t("translation.searchByName")}
+            className="h-20"
+            style={{ marginLeft: "10px", paddingLeft: "2rem", height: "40px" }}
           />
         </span>
         <Dropdown
@@ -175,11 +177,13 @@ export default function EmployeesPage() {
           ]}
           onChange={(e) => setRoleFilter(e.value || "")}
           placeholder={t("translation.filterByRole")}
+          style={{ marginLeft: "10px" }}
         />
         <Button
           label={t("translation.addEmployee")}
           icon="pi pi-plus"
           onClick={() => setShowDialog(true)}
+          style={{ height: "45px", marginLeft: "50px" }}
         />
       </div>
 

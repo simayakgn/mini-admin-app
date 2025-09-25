@@ -107,3 +107,16 @@ body.dark {
 .navbar button {
   margin: 0 8px;
 }
+/* Navbar butonlarını büyütmek için */
+.p-button {
+  padding: 1rem 1.5rem; /* üst/alt 16px, sağ/sol 24px */
+  font-size: 1.1rem; /* yazı boyutunu büyüt */
+}
+
+.p-button .p-button-icon {
+  font-size: 1.2rem; /* ikon boyutu */
+}
+
+.custom-gear {
+  font-size: 28px !important; /* ikon boyutu */
+}

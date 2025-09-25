@@ -11,6 +11,7 @@ import Settings from "./pages/Settings";
 import Navbar from "./pages/Navbar";
 import { useTranslation } from "react-i18next";
 import "./i18n"; // i18n setup'ını import et
+import { Button } from "primereact/button";
 
 function App() {
   const toastRef = useRef<Toast>(null);
@@ -36,14 +37,12 @@ function App() {
         />
 
         {/* Örnek: Toast testi için buton */}
-        <div className="p-4">
-          <button
-            onClick={showSuccess}
-            className="px-4 py-2 bg-green-500 text-white rounded"
-          >
-            Toast
-          </button>
-        </div>
+        <Button
+          label="Show Toast"
+          icon="pi pi-check"
+          className="p-button-success"
+          onClick={showSuccess}
+        />
 
         {/* Sayfa yönlendirmeleri */}
         <Routes>

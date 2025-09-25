@@ -815,6 +815,14 @@
       "role": "manager",
       "status": "inactive",
       "createdAt": "2025-09-25"
+    },
+    {
+      "id": 103,
+      "name": "Ali Veli",
+      "email": "ali@gmail.com",
+      "role": "Manager",
+      "status": "inactive",
+      "createdAt": "2025-09-25"
     }
   ],
   "trainings": [
@@ -863,6 +871,12 @@
     {
       "id": "c80c",
       "employeeId": 24,
+      "trainingId": 101,
+      "assignedAt": "2025-09-25"
+    },
+    {
+      "id": "87f6",
+      "employeeId": 4,
       "trainingId": 101,
       "assignedAt": "2025-09-25"
     }
