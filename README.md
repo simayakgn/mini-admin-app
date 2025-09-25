@@ -1,4 +1,4 @@
-# Mini Admin App
+🛠️ Mini Admin App 🛠️
 
 A simple admin panel built with PrimeReact and Tailwind CSS.  
 Supports employee management, training assignments, and multi-language (TR/EN).
