@@ -17,3 +17,10 @@ Supports employee management, training assignments, and multi-language (TR/EN).
 - Tailwind CSS
 - Vite
 - i18next (for multi-language)
+
+## Setup
+```bash
+git clone https://github.com/simayakgn/mini-admin-app.git
+cd mini-admin-app
+npm install
+npm run dev
