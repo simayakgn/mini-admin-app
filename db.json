@@ -1,0 +1,870 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Angelica Vandervort Sr.",
+      "email": "Alysha.Price56@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-05-18"
+    },
+    {
+      "id": 2,
+      "name": "Velma Reichel",
+      "email": "Myah_Crona@hotmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-08-09"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Orlando Carroll DDS",
+      "email": "Ernestina24@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-05"
+    },
+    {
+      "id": 4,
+      "name": "Reginald Beer",
+      "email": "Dan49@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-06-02"
+    },
+    {
+      "id": 5,
+      "name": "June Altenwerth",
+      "email": "Constantin25@gmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-05-21"
+    },
+    {
+      "id": 6,
+      "name": "Lawrence Bauch",
+      "email": "Dayne88@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-06-05"
+    },
+    {
+      "id": 7,
+      "name": "Vickie Cummings",
+      "email": "Darion6@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-04-25"
+    },
+    {
+      "id": 8,
+      "name": "Miss Catherine Larson",
+      "email": "Percy2@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-09-20"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Allan Mills",
+      "email": "Lionel.Jerde@yahoo.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-01-24"
+    },
+    {
+      "id": 10,
+      "name": "Spencer Hansen",
+      "email": "Aditya31@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-09-01"
+    },
+    {
+      "id": 11,
+      "name": "Doug Dach",
+      "email": "Isabelle82@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-06-27"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Mable Hermiston",
+      "email": "Leta_Turcotte39@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-03"
+    },
+    {
+      "id": 13,
+      "name": "Johanna Watsica Jr.",
+      "email": "Suzanne.Hahn@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-04-03"
+    },
+    {
+      "id": 14,
+      "name": "Elena Kerluke",
+      "email": "Dolly66@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-01-27"
+    },
+    {
+      "id": 15,
+      "name": "Virginia Wilkinson IV",
+      "email": "Nya.Lakin@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-04-20"
+    },
+    {
+      "id": 16,
+      "name": "Lance Torp",
+      "email": "Cara.Abbott@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-05-10"
+    },
+    {
+      "id": 17,
+      "name": "Marguerite Lind DVM",
+      "email": "Muhammad37@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-02-04"
+    },
+    {
+      "id": 18,
+      "name": "Tara Schimmel",
+      "email": "Vincenzo25@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-08-29"
+    },
+    {
+      "id": 19,
+      "name": "Lamar McCullough MD",
+      "email": "Kattie_Hauck@yahoo.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-04-09"
+    },
+    {
+      "id": 20,
+      "name": "Darla Hettinger",
+      "email": "Elinore_Emard36@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-04-02"
+    },
+    {
+      "id": 21,
+      "name": "Alison Bogisich",
+      "email": "Emilio_Aufderhar93@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-01-26"
+    },
+    {
+      "id": 22,
+      "name": "Mike Weissnat",
+      "email": "Peggie_Christiansen@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-05-27"
+    },
+    {
+      "id": 23,
+      "name": "Rudolph Hermiston",
+      "email": "Maximus79@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "name": "Alfonso Larson",
+      "email": "Giles_Anderson61@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-07-05"
+    },
+    {
+      "id": 25,
+      "name": "Simon Lind",
+      "email": "Maximo_Rodriguez42@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-03-13"
+    },
+    {
+      "id": 26,
+      "name": "Marta Rath",
+      "email": "Otto.Grimes@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-02-23"
+    },
+    {
+      "id": 27,
+      "name": "Dr. Marjorie Nader I",
+      "email": "Kailee90@hotmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-06-21"
+    },
+    {
+      "id": 28,
+      "name": "Marianne McLaughlin",
+      "email": "Reggie.Wiegand46@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-09-17"
+    },
+    {
+      "id": 29,
+      "name": "Ms. Roxanne Sipes",
+      "email": "Dolores_Maggio@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-05-28"
+    },
+    {
+      "id": 30,
+      "name": "Erik Dach",
+      "email": "Eldon.Rolfson48@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-03-12"
+    },
+    {
+      "id": 31,
+      "name": "Calvin Crist",
+      "email": "Karolann.Schultz-Fadel@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-05-02"
+    },
+    {
+      "id": 32,
+      "name": "Marvin Schuster",
+      "email": "Ellie23@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-07-03"
+    },
+    {
+      "id": 33,
+      "name": "Orlando Moore",
+      "email": "Vilma.Tremblay-Lesch9@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-04-04"
+    },
+    {
+      "id": 34,
+      "name": "Essie Dickens DDS",
+      "email": "Sidney_Powlowski-Gusikowski20@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-06-21"
+    },
+    {
+      "id": 35,
+      "name": "Marguerite Smith",
+      "email": "Alfonso_Reynolds@hotmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-06-29"
+    },
+    {
+      "id": 36,
+      "name": "Kristina King",
+      "email": "Tanner_Feeney71@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-06-27"
+    },
+    {
+      "id": 37,
+      "name": "Willie Doyle",
+      "email": "Marcelo_Lemke77@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-06-02"
+    },
+    {
+      "id": 38,
+      "name": "Derek Windler PhD",
+      "email": "Leatha.Boyer@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-06-04"
+    },
+    {
+      "id": 39,
+      "name": "Vickie Daugherty",
+      "email": "Jonas_Weber@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-06-23"
+    },
+    {
+      "id": 40,
+      "name": "Ellen Schuster",
+      "email": "German.Stanton86@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-03-29"
+    },
+    {
+      "id": 41,
+      "name": "Earl Sanford PhD",
+      "email": "Damon96@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-03-25"
+    },
+    {
+      "id": 42,
+      "name": "Monique Parisian",
+      "email": "Jordi_Braun47@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-05-18"
+    },
+    {
+      "id": 43,
+      "name": "Irma Moore I",
+      "email": "Gabriella.Satterfield@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-02-18"
+    },
+    {
+      "id": 44,
+      "name": "Gladys Hyatt",
+      "email": "Issac.Stokes29@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-06-22"
+    },
+    {
+      "id": 45,
+      "name": "Dana Feeney",
+      "email": "Olga96@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-07-18"
+    },
+    {
+      "id": 46,
+      "name": "Lana Koelpin",
+      "email": "Juanita_Hane32@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-03-03"
+    },
+    {
+      "id": 47,
+      "name": "Timmy Prohaska V",
+      "email": "Frederique49@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": 48,
+      "name": "Lionel Spencer-Heathcote",
+      "email": "Marcel79@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-06-05"
+    },
+    {
+      "id": 49,
+      "name": "Edmond Jast",
+      "email": "Sadye_Auer8@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-07-14"
+    },
+    {
+      "id": 50,
+      "name": "Ora Sporer",
+      "email": "Jon23@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-05-16"
+    },
+    {
+      "id": 51,
+      "name": "Fredrick Walter",
+      "email": "May28@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-03-30"
+    },
+    {
+      "id": 52,
+      "name": "Vincent Morissette",
+      "email": "Terrence.Carroll17@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-06-08"
+    },
+    {
+      "id": 53,
+      "name": "Dana Russel",
+      "email": "Dessie_Rodriguez73@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-04-22"
+    },
+    {
+      "id": 54,
+      "name": "Bert Altenwerth",
+      "email": "Jerod8@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-09-13"
+    },
+    {
+      "id": 55,
+      "name": "Dr. Joel Larson",
+      "email": "Annabelle_Stoltenberg45@hotmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-04-14"
+    },
+    {
+      "id": 56,
+      "name": "Dr. Mandy Kassulke",
+      "email": "Audreanne.Weissnat@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-07-19"
+    },
+    {
+      "id": 57,
+      "name": "Ms. Olga Cremin",
+      "email": "Emory.Smitham85@gmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-10"
+    },
+    {
+      "id": 58,
+      "name": "Carlton Graham PhD",
+      "email": "Delores10@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-04-14"
+    },
+    {
+      "id": 59,
+      "name": "Dave Barrows",
+      "email": "Marcella.Grimes@gmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-04-28"
+    },
+    {
+      "id": 60,
+      "name": "Cheryl Swift",
+      "email": "Daren_Jones@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-05-29"
+    },
+    {
+      "id": 61,
+      "name": "Mrs. Faith Turcotte",
+      "email": "Maude_Schmeler@yahoo.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-05-24"
+    },
+    {
+      "id": 62,
+      "name": "Samuel Schinner",
+      "email": "Dallas.Mertz@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-05-31"
+    },
+    {
+      "id": 63,
+      "name": "Ruth Champlin",
+      "email": "Eleonore_Hessel@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-01-14"
+    },
+    {
+      "id": 64,
+      "name": "Peggy Shields",
+      "email": "Chris53@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-01-15"
+    },
+    {
+      "id": 65,
+      "name": "Glenda Hoeger",
+      "email": "Nedra.Schaefer91@hotmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-02-20"
+    },
+    {
+      "id": 66,
+      "name": "Priscilla Kub",
+      "email": "Leif31@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-03-15"
+    },
+    {
+      "id": 67,
+      "name": "Sally Muller II",
+      "email": "Bernhard_Kuhic79@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-04"
+    },
+    {
+      "id": 68,
+      "name": "Jeremiah Funk",
+      "email": "Retha.Batz@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-04-15"
+    },
+    {
+      "id": 69,
+      "name": "Francisco Wuckert",
+      "email": "Gregorio.Hilpert@yahoo.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-08-31"
+    },
+    {
+      "id": 70,
+      "name": "Hilda Grimes",
+      "email": "Alan_Jast16@gmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-03-01"
+    },
+    {
+      "id": 71,
+      "name": "Wilma Dach",
+      "email": "Bette.Jakubowski61@hotmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-03-23"
+    },
+    {
+      "id": 72,
+      "name": "Michael Dach",
+      "email": "Emilie.Runte54@hotmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-01-07"
+    },
+    {
+      "id": 73,
+      "name": "Mr. Forrest Braun",
+      "email": "Tyler_Kuvalis@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-05-31"
+    },
+    {
+      "id": 74,
+      "name": "Jared Glover",
+      "email": "Gayle87@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-01-12"
+    },
+    {
+      "id": 75,
+      "name": "Ellen Orn",
+      "email": "Shania_Crist@yahoo.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-02-05"
+    },
+    {
+      "id": 76,
+      "name": "Wm Koelpin",
+      "email": "Horacio99@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-08-23"
+    },
+    {
+      "id": 77,
+      "name": "Damon Pfeffer",
+      "email": "Joesph.Macejkovic64@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-02-19"
+    },
+    {
+      "id": 78,
+      "name": "Bernadette Lockman",
+      "email": "Gerard87@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-08-09"
+    },
+    {
+      "id": 79,
+      "name": "Ms. Caroline Lakin",
+      "email": "Candida63@hotmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-04-10"
+    },
+    {
+      "id": 80,
+      "name": "Natalie Kunde",
+      "email": "Hazel_Bashirian73@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-05-10"
+    },
+    {
+      "id": 81,
+      "name": "Wendell Wuckert",
+      "email": "Joelle.OKeefe50@gmail.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-05-07"
+    },
+    {
+      "id": 82,
+      "name": "Vicki Kirlin",
+      "email": "Dorian60@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-18"
+    },
+    {
+      "id": 83,
+      "name": "Shaun Johnston II",
+      "email": "Gianni_Schultz@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-09-04"
+    },
+    {
+      "id": 84,
+      "name": "Johnnie Carter",
+      "email": "Lucinda.Littel44@gmail.com",
+      "role": "engineer",
+      "status": "inactive",
+      "createdAt": "2025-08-08"
+    },
+    {
+      "id": 85,
+      "name": "Darnell Renner",
+      "email": "Jaclyn94@hotmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-02-23"
+    },
+    {
+      "id": 86,
+      "name": "Sue Dickens-Abernathy Sr.",
+      "email": "Barrett_Kiehn@yahoo.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-09-17"
+    },
+    {
+      "id": 87,
+      "name": "Everett Larson Sr.",
+      "email": "Shawn18@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-06-10"
+    },
+    {
+      "id": 88,
+      "name": "Tracy Lehner",
+      "email": "Aletha.Kling@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-07-27"
+    },
+    {
+      "id": 89,
+      "name": "Nicole Nitzsche-Zemlak",
+      "email": "Rigoberto41@yahoo.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-03-13"
+    },
+    {
+      "id": 90,
+      "name": "Frank Hammes",
+      "email": "Zella51@hotmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-06-11"
+    },
+    {
+      "id": 91,
+      "name": "Henry Schaefer",
+      "email": "Ernie_DAmore@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-05-29"
+    },
+    {
+      "id": 92,
+      "name": "Julio Streich",
+      "email": "Cletus_Barrows64@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-06-28"
+    },
+    {
+      "id": 93,
+      "name": "Dr. Rufus Koelpin",
+      "email": "Damien.Quitzon@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-07-15"
+    },
+    {
+      "id": 94,
+      "name": "Darryl Bartoletti Sr.",
+      "email": "Howard_Jones@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-05-05"
+    },
+    {
+      "id": 95,
+      "name": "Ms. Carolyn Hilll",
+      "email": "Fabian19@gmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-01-12"
+    },
+    {
+      "id": 96,
+      "name": "Ben Steuber",
+      "email": "Alexandrine39@hotmail.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-07-27"
+    },
+    {
+      "id": 97,
+      "name": "Virginia Bailey",
+      "email": "Ashton32@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-04-05"
+    },
+    {
+      "id": 98,
+      "name": "Karl Hudson",
+      "email": "Corbin_Mosciski41@yahoo.com",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2025-08-19"
+    },
+    {
+      "id": 99,
+      "name": "Karla Ziemann",
+      "email": "Kayleigh.Walsh@gmail.com",
+      "role": "engineer",
+      "status": "active",
+      "createdAt": "2025-01-31"
+    },
+    {
+      "id": 100,
+      "name": "Lucille Stiedemann",
+      "email": "Brendon_Hoeger@hotmail.com",
+      "role": "manager",
+      "status": "active",
+      "createdAt": "2025-01-16"
+    },
+    {
+      "id": 101,
+      "name": "Simay Akgündüz",
+      "email": "simay@gmail.com",
+      "role": "Admin",
+      "status": "active",
+      "createdAt": "2025-09-25"
+    },
+    {
+      "id": 102,
+      "name": "Burak Yılmaz",
+      "email": "burak@gmail.com",
+      "role": "manager",
+      "status": "inactive",
+      "createdAt": "2025-09-25"
+    }
+  ],
+  "trainings": [
+    {
+      "id": 101,
+      "title": "TypeScript 101",
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-20",
+      "active": false
+    },
+    {
+      "id": 102,
+      "title": "PrimeReact Başlangıç",
+      "startDate": "2025-09-22",
+      "endDate": "2025-09-22",
+      "active": true
+    },
+    {
+      "id": 103,
+      "title": "React Advanced",
+      "startDate": "2025-09-25",
+      "endDate": "2025-09-25",
+      "active": true
+    },
+    {
+      "id": 104,
+      "title": "Node.js Temelleri",
+      "startDate": "2025-09-27",
+      "endDate": "2025-09-27",
+      "active": true
+    }
+  ],
+  "assignments": [
+    {
+      "id": "3733",
+      "employeeId": 21,
+      "trainingId": 102,
+      "assignedAt": "2025-09-25"
+    },
+    {
+      "id": "b181",
+      "employeeId": 3,
+      "trainingId": 104,
+      "assignedAt": "2025-09-25"
+    },
+    {
+      "id": "c80c",
+      "employeeId": 24,
+      "trainingId": 101,
+      "assignedAt": "2025-09-25"
+    }
+  ]
+}
