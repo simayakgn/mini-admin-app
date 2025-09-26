@@ -35,6 +35,23 @@
     "title": "Başlık",
     "chooseState": "Durum Seç",
     "searchByTitle": "Başlığa göre ara",
-    "appTitle": "Mini Admin Uygulaması"
+    "appTitle": "Mini Admin Uygulaması",
+    "active": "Aktif",
+    "passive": "Pasif",
+    "inactive": "Pasif",
+    "operations": "İşlemler",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "cancel": "Vazgeç",
+    "actions": "İşlemler",
+    "saved": "Kaydedildi",
+    "updated": "Güncellendi",
+    "deleted": "Silindi",
+    "confirmDelete": "Onayla",
+    "confirmDeleteMessage": "{{name}} adlı çalışanı silmek istiyor musunuz?",
+    "employeeSaved": "{{name}} kaydedildi.",
+    "employeeUpdated": "{{name}} güncellendi.",
+    "employeeDeleted": "{{name}} silindi.",
+    "error": "Hata oluştu."
   }
 }

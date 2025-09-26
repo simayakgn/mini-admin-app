@@ -35,6 +35,26 @@
     "title": "Title",
     "chooseState": "Choose State",
     "searchByTitle": "Search by title",
-    "appTitle": "Mini Admin App"
+    "appTitle": "Mini Admin App",
+    "active": "Active",
+    "passive": "Passive",
+    "inactive": "Passive",
+    "Manager": "Manager",
+    "Engineer": "Engineer",
+    "Admin": "Admin",
+    "operations": "Operations",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "actions": "Operations",
+    "updated": "Updated",
+    "confirmDelete": "Confirm",
+    "deleted": "Deleted",
+    "employeeUpdated": "{{name}} is updated.",
+    "saved": "Saved",
+    "confirmDeleteMessage": "Do you want to delete the employee named {{name}}?",
+    "employeeSaved": "{{name}} is saved.",
+    "employeeDeleted": "{{name}} is deleted.",
+    "error": "Error occured."
   }
 }

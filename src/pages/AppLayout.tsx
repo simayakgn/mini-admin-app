@@ -12,7 +12,7 @@ const AppLayout: React.FC<AppLayoutProps> = ({ children }) => {
       <img
         src={logo}
         alt="logo"
-        className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-60 pointer-events-none z-0 w-72 h-72"
+        className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-80 pointer-events-none z-0 w-72 h-72"
       />
 
       {/* Ana içerik */}

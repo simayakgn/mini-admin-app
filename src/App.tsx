@@ -36,14 +36,6 @@ function App() {
           onLanguageChange={(lang) => i18n.changeLanguage(lang)}
         />
 
-        {/* Örnek: Toast testi için buton */}
-        <Button
-          label="Show Toast"
-          icon="pi pi-check"
-          className="p-button-success"
-          onClick={showSuccess}
-        />
-
         {/* Sayfa yönlendirmeleri */}
         <Routes>
           <Route path="/" element={<Dashboard />} />

@@ -58,28 +58,31 @@ export default function TrainingsPage() {
     <div className="p-4">
       <h2 className="text-xl mb-4">{t("translation.trainings")}</h2>
       <div className="flex gap-2 mb-3">
-        <span className="p-input-icon-left">
-          <i className="pi pi-search" />
+        <span className="p-input-icon-left w-48">
+          <i className="pi pi-search" style={{ marginLeft: "16px" }} />
           <InputText
             value={titleFilter}
             onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
               setTitleFilter(e.target.value)
             }
             placeholder={t("translation.searchByTitle")}
+            className="h-20"
+            style={{ marginLeft: "10px", paddingLeft: "2rem", height: "45px" }}
           />
         </span>
         <Dropdown
           value={statusFilter}
           options={[
-            { label: t("All"), value: "" },
-            { label: t("Active"), value: "active" },
-            { label: t("Passive"), value: "passive" },
+            { label: t("translation.all"), value: "" },
+            { label: t("translation.active"), value: "active" },
+            { label: t("translation.passive"), value: "passive" },
           ]}
           onChange={(e: DropdownChangeEvent) => {
             // debugger;
             setStatusFilter(e.value ?? "");
           }}
           placeholder={t("translation.chooseState")}
+          style={{ marginLeft: "10px" }}
         />
       </div>
       <DataTable value={filteredData ?? []} loading={isLoading}>
@@ -92,9 +95,9 @@ export default function TrainingsPage() {
           header={t("translation.status")}
           body={(row: Training) =>
             row.active ? (
-              <span className="text-green-600">{t("Active")} </span>
+              <span className="text-green-600">{t("translation.active")} </span>
             ) : (
-              <span className="text-red-600">{t("Passive")} </span>
+              <span className="text-red-600">{t("translation.passive")} </span>
             )
           }
         />
