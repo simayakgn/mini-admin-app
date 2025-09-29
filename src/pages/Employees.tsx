@@ -10,7 +10,7 @@ import { Dialog } from "primereact/dialog";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { useTranslation } from "react-i18next";
 import { Toast } from "primereact/toast";
-import { fi } from "@faker-js/faker";
+//import { fi } from "@faker-js/faker";
 
 // Types
 type Employee = {

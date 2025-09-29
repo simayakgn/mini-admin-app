@@ -823,6 +823,14 @@
       "role": "Manager",
       "status": "inactive",
       "createdAt": "2025-09-25"
+    },
+    {
+      "id": "104",
+      "name": "Aslı",
+      "email": "Akıl",
+      "role": "Engineer",
+      "status": "Active",
+      "createdAt": "2025-09-29"
     }
   ],
   "trainings": [

@@ -11,18 +11,18 @@ import Settings from "./pages/Settings";
 import Navbar from "./pages/Navbar";
 import { useTranslation } from "react-i18next";
 import "./i18n"; // i18n setup'ını import et
-import { Button } from "primereact/button";
+//import { Button } from "primereact/button";
 
 function App() {
   const toastRef = useRef<Toast>(null);
   const { i18n } = useTranslation();
-  const showSuccess = () => {
-    toastRef.current?.show({
-      severity: "success",
-      summary: "Başarılı",
-      detail: "İşlem tamamlandı",
-    });
-  };
+  // const showSuccess = () => {
+  //   toastRef.current?.show({
+  //     severity: "success",
+  //     summary: "Başarılı",
+  //     detail: "İşlem tamamlandı",
+  //   });
+  // };
 
   return (
     <SettingsProvider>
